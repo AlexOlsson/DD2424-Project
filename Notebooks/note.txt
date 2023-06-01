@@ -1,1 +1,1 @@
-The code is not pretty but works fine :)
+The code in the notebooks are not pretty but they work fine :)
