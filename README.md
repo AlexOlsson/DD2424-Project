@@ -1,5 +1,5 @@
 # README
 
-We started our implementation based on https://pytorch.org/tutorials/beginner/finetuning_torchvision_models_tutorial.html, however over the course of the project that template was heavily modified and many parts of the template were rewritten or removed and new parts added.
+We began our implementation based on the tutorial found at https://pytorch.org/tutorials/beginner/finetuning_torchvision_models_tutorial.html. However, over the course of the project, we heavily modified the template, rewriting or removing many parts and adding many new ones.
 
-The included notebooks might not be in exactly the state they were in when the reported experiments were run, but they should be reasonably close.
+The included notebooks may not be in the exact state they were in when the reported experiments were conducted, but they should be reasonably similar.
