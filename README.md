@@ -1,9 +1,6 @@
 # README
 
-Group members:
-Yeqi Wang
-Alexander Olsson
-Erik Wachtmeister
+Group members: Yeqi Wang, Alexander Olsson, Erik Wachtmeister
 
 
 We began our implementation based on the tutorial found at https://pytorch.org/tutorials/beginner/finetuning_torchvision_models_tutorial.html. However, over the course of the project, we heavily modified the template, rewriting or removing many parts and adding many new ones.
